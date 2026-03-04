@@ -1,0 +1,3 @@
+/* This is required for the browser to respect <system-color> */
+:root { color-scheme: light dark }
+body { background-color: Canvas; }
