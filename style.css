@@ -1,3 +1,3 @@
 /* This is required for the browser to respect <system-color> */
-:root { color-scheme: light dark }
+:root { color-scheme: dark }
 body { background-color: Canvas; }
